@@ -1,0 +1,6 @@
+{
+  "name": "Stock Trading and Analysis Platform",
+  "description": "A high-fidelity stock trading simulator and analysis dashboard with virtual balance management, live interactive price tracking charts, portfolio summaries, order history, and AI-powered stock analysis powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
